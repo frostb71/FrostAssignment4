@@ -13,7 +13,7 @@ using Android.Widget;
 namespace FrostAssignment4
 {
     public class CTransaction
-    {
+    {  
        
         public CTransaction()
         { }
